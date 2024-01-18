@@ -1,0 +1,14 @@
+div{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    visibility: visible;
+}
+span{
+    background-color: blue;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    visibility:visible;
+}

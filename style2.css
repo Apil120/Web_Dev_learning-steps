@@ -1,0 +1,28 @@
+@font-face {
+    src: url(CSS\Fonts\RobotoCondensed-VariableFont_wght.ttf);
+    font-family: Roboto;
+}
+
+
+
+body{
+    background-color: blanchedalmond;
+    
+}
+
+h1{
+    font-family: Roboto,"Times New Roman";
+    font-size: 35px;
+    color: rgb(0, 183, 255);
+}
+
+p{
+   color: hsl(207, 71%, 15%);
+   font-family: Roboto;
+    font-size: 25px;
+}
+h2{
+    color: rgb(16, 139, 240);
+    font-family: Roboto;
+    font-size: 29px;
+}

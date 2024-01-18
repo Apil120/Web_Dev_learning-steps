@@ -1,15 +1,25 @@
 body{
-    background-color: lightcyan;
+    background-color: darkblue;
 }
 h1{
     color: red;
 }
 .o{
-    color:white
+    color:black;
 }
 .p{
-    color: darkcyan;
+    color: yellow;
 }
 b{
     color: red;
 }
+.myButton {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
